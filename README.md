@@ -45,6 +45,7 @@ http://www.google.com/publicdata/directory#!q=UK&dp=Department+for+Work+and+Pens
 
 http://aws.amazon.com/datasets/2759
 
+http://geosci.uchicago.edu/~rtp1/PrinciplesPlanetaryClimate/Data/dataPortal.html
 
 == Traffic
 
