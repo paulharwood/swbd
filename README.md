@@ -52,3 +52,15 @@ http://aws.amazon.com/datasets/2759
 == Finance
 
 http://data.gov.uk/dataset/coins
+
+
+Resources
+=========
+
+Github Cheatsheet
+
+https://na1.salesforce.com/help/doc/en/salesforce_git_developer_cheatsheet.pdf
+
+AWS Cheatsheet
+
+http://ged.msu.edu/angus/tutorials/starting-your-cloud-system.html
