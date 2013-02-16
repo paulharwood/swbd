@@ -20,4 +20,6 @@ for line in sys.stdin:
 		word2count[word] = count
 
 for word in word2count.keys():
-	print '%s\t%s' % (word, word2count[word])
+	count = word2count[word]
+	if count > 1:
+		print '%s\t%s' % (word, count)
