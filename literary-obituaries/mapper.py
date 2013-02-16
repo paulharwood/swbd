@@ -1,4 +1,6 @@
-from stemming.porter2 import stem
+#!/usr/bin/python
+
+# from stemming.porter2 import stem
 import sys
 import re
 
