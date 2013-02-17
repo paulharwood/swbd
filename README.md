@@ -72,3 +72,11 @@ Bristol Data as JSON
 Github Repo: git@github.com:MRdNk/swbd.git (https://github.com/MRdNk/swbd)
 
 Site: http://bristol-data.herokuapp.com/
+
+
+Projects for HackReduce #1
+==========================
+
+Death & Taxes (Life Expectancy by Bristol Wards): http://deathandtaxes.herokuapp.com/
+
+GitHub Repo: https://github.com/MRdNk/DeathAndTaxes
