@@ -16,6 +16,7 @@ Hack/Reduce 1: Looking at Bristol through Data
 We made these (and more) tools, visualizations and other things at the first SW Hack/Reduce event. Most are works in progress. If you made something at the event, or have since updated or improved something we made, please let us know.
 
 ### Death & Taxes (Life Expectancy by Bristol Wards) ###
+
 ###### Live demo
 * http://deathandtaxes.herokuapp.com/
 
@@ -28,7 +29,6 @@ We made these (and more) tools, visualizations and other things at the first SW 
 By Simon Price. In Javascript.
 ###### Site
 * http://mrdnk.github.com/BristolWardMap/
-
 ###### Source code
 * https://github.com/MRdNk/BristolWardMap
 * https://fluff.bris.ac.uk/fluff/u2/ecsnp/r9j1wtwEttlNqcuzIUBn3wEIL/ (hackreduce.zip available until Mon Mar 4)
@@ -88,22 +88,6 @@ Themes
 
 * http://www.google.com/publicdata/directory#!q=UK&dp=Department+for+Work+and+Pensions,+via+NOMIS
 
-### Weather ###
-
-* http://aws.amazon.com/datasets/2759
-
-* http://geosci.uchicago.edu/~rtp1/PrinciplesPlanetaryClimate/Data/dataPortal.html
-
-### Traffic ###
-
-
-### Finance ###
-
-* http://data.gov.uk/dataset/coins
-
-Resources
-=========
-
 ###### Github Cheatsheet
 
 * https://na1.salesforce.com/help/doc/en/salesforce_git_developer_cheatsheet.pdf
@@ -122,4 +106,5 @@ Wardley, P. (2000) (editor). *[Bristol historical resource CD-ROM](http://histor
 [Dr. Peter Wardley](http://people.uwe.ac.uk/Pages/person.aspx?accountname=campus%5cp-wardley) of the University of the West of England kindly loaned us his Bristol Historical Resource CD ROM for the first SWBD Hack/Reduce event.
 
 Map data from Ordnance Survey's [OS OpenData products](https://www.ordnancesurvey.co.uk/opendatadownload/products.html). Contains Ordnance Survey data © Crown copyright and database right 2013
+
 
