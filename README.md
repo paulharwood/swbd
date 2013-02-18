@@ -122,3 +122,4 @@ Wardley, P. (2000) (editor). *[Bristol historical resource CD-ROM](http://histor
 [Dr. Peter Wardley](http://people.uwe.ac.uk/Pages/person.aspx?accountname=campus%5cp-wardley) of the University of the West of England kindly loaned us his Bristol Historical Resource CD ROM for the first SWBD Hack/Reduce event.
 
 Map data from Ordnance Survey's [OS OpenData products](https://www.ordnancesurvey.co.uk/opendatadownload/products.html). Contains Ordnance Survey data © Crown copyright and database right 2013
+
