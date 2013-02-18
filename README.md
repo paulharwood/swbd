@@ -88,6 +88,20 @@ Themes
 
 * http://www.google.com/publicdata/directory#!q=UK&dp=Department+for+Work+and+Pensions,+via+NOMIS
 
+### Weather ###
+
+http://aws.amazon.com/datasets/2759
+
+http://geosci.uchicago.edu/~rtp1/PrinciplesPlanetaryClimate/Data/dataPortal.html
+
+### Traffic ###
+
+
+### Finance ###
+
+http://data.gov.uk/dataset/coins
+
+
 ###### Github Cheatsheet
 
 * https://na1.salesforce.com/help/doc/en/salesforce_git_developer_cheatsheet.pdf
