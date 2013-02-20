@@ -17,43 +17,43 @@ We made these (and more) tools, visualizations and other things at the first SW 
 
 ### Death & Taxes (Life Expectancy by Bristol Wards) ###
 
-###### Live demo
-* http://deathandtaxes.herokuapp.com/
-
-###### GitHub Repo
-* https://github.com/MRdNk/DeathAndTaxes
-
 (data from Wardley 2000)
 
-### Bristol Ward Map ###
-By Simon Price. In Javascript.
-###### Site
-* http://mrdnk.github.com/BristolWardMap/
+###### Live demos
+* http://dataunity.github.com/bristol-open-data/HealthLifeExpectancyByWard.html (Bar charts in an iPython notebook by Kev Kirkland)
+* http://deathandtaxes.herokuapp.com/ (Javascript trend plots by Duncan Wilkie)
+* http://mrdnk.github.com/BristolWardMap/ (Javascript map of wards by Simon Price)
+
 ###### Source code
-* https://github.com/MRdNk/BristolWardMap
+* https://github.com/MRdNk/DeathAndTaxes (Duncan's trends)
+
+Simon's maps. _Open ''map.html''. As well as the map demo the raw JSON from the OS is also in the zip._
+
+* https://github.com/MRdNk/BristolWardMap 
 * https://fluff.bris.ac.uk/fluff/u2/ecsnp/r9j1wtwEttlNqcuzIUBn3wEIL/ (hackreduce.zip available until Mon Mar 4)
 
 (data from Ordnance Survey OS OpenData)
 
-### Bristol Data as JSON ###
+### Bristol Data as JSON code ###
 
-###### Github Repo
-* git@github.com:MRdNk/swbd.git
-* https://github.com/MRdNk/swbd
+By Duncan Wilkie
 
 ###### Site
 * http://bristol-data.herokuapp.com/
 (data from various sources)
+
+###### Source code
+* https://github.com/MRdNk/swbd
 
 ### Word frequencies in historic Bristol obituaries ###
 
 We tackled this from a couple of angles.
 
 Firstly, this Javascript code by Mark Heseltine produces a word cloud visualization. Users can select the month and year of the source texts interactively. Licensed as open source under the Creative Commons Attribution 3.0 Unported License.
-###### Github repo.
+###### Source code.
 *  https://github.com/markheseltine/southwestbigdata/tree/master/HackReduce01
 
-Chris Bailey's pair of Python scripts, mapper.py and reducer.py [(in the literary-obituaries directory of this repository)](https://github.com/paulharwood/swbd/tree/master/literary-obituaries) can be used as a Mapper and Reducer in Hadoop to count word frequencies in the body of the articles, omitting the metadata. scrape_obituaries.py (in the same place) can be used to obtain a similar corpus of obituaries from a 21st century newspaper website, which you can compare with the historical data.
+Chris Bailey's pair of Python scripts, ''mapper.py'' and ''reducer.py'' [(in the literary-obituaries directory of this repository)](https://github.com/paulharwood/swbd/tree/master/literary-obituaries) can be used as a Mapper and Reducer in Hadoop to count word frequencies in the body of the articles, omitting the metadata. ''scrape_obituaries.py'' (in the same place) can be used to obtain a similar corpus of obituaries from a 21st century newspaper website, which you can compare with the historical data.
 
 (data from Wardley 2000)
 
@@ -90,16 +90,16 @@ Themes
 
 ### Weather ###
 
-http://aws.amazon.com/datasets/2759
+* http://aws.amazon.com/datasets/2759
 
-http://geosci.uchicago.edu/~rtp1/PrinciplesPlanetaryClimate/Data/dataPortal.html
+* http://geosci.uchicago.edu/~rtp1/PrinciplesPlanetaryClimate/Data/dataPortal.html
 
 ### Traffic ###
 
 
 ### Finance ###
 
-http://data.gov.uk/dataset/coins
+* http://data.gov.uk/dataset/coins
 
 
 ###### Github Cheatsheet
