@@ -17,7 +17,7 @@ We made these (and more) tools, visualizations and other things at the first SW 
 
 ### Death & Taxes (Life Expectancy by Bristol Wards) ###
 
-(data from Wardley 2000)
+(data from Wardley 2000 and Ordnance Survey OS OpenData)
 
 ###### Live demos
 * http://dataunity.github.com/bristol-open-data/HealthLifeExpectancyByWard.html (Bar charts in an iPython notebook by Kev Kirkland)
@@ -31,8 +31,6 @@ Simon's maps. _Open ''map.html''. As well as the map demo the raw JSON from the 
 
 * https://github.com/MRdNk/BristolWardMap 
 * https://fluff.bris.ac.uk/fluff/u2/ecsnp/r9j1wtwEttlNqcuzIUBn3wEIL/ (hackreduce.zip available until Mon Mar 4)
-
-(data from Ordnance Survey OS OpenData)
 
 ### Bristol Data as JSON code ###
 
