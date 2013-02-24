@@ -41,7 +41,7 @@ By Duncan Wilkie
 (data from various sources)
 
 ###### Source code
-* https://github.com/MRdNk/swbd
+* https://github.com/MRdNk/BristolData
 
 ### Word frequencies in historic Bristol obituaries ###
 
